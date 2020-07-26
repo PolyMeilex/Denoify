@@ -21,9 +21,9 @@ import b from "./b";
 ```
 export const a = 5;
 export default a;
-```
+```ts
 `./b/index.ts`
-```
+```ts
 export const b = 5;
 export default b;
 ```
