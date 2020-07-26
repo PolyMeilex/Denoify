@@ -18,11 +18,12 @@ import a from "./a";
 import b from "./b";
 ```
 `./a.ts`
-```
+```ts
 export const a = 5;
 export default a;
-```ts
+```
 `./b/index.ts`
+```
 ```ts
 export const b = 5;
 export default b;
