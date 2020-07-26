@@ -23,7 +23,6 @@ export const a = 5;
 export default a;
 ```
 `./b/index.ts`
-```
 ```ts
 export const b = 5;
 export default b;
